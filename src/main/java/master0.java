@@ -1,0 +1,2 @@
+public class master0 {
+}
